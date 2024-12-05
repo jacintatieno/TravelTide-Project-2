@@ -10,7 +10,7 @@ This is a masterschool project, I will include a summary of the project,a power 
 - Executive summary
 
 ## Links to resources
-- [Video Presentation](https://drive.google.com/drive/recent)
+- [Video Presentation](https://drive.google.com/file/d/1DnfRECPI23LCfRSZBpfpfWnOwhmq_f5x/view?usp=sharing)
 
 - [Open in google colab](https://colab.research.google.com/drive/1PW9m7X_QXwTpYGb_s2qgxeKqSiqcQcZ-)
 
