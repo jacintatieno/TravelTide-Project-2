@@ -14,7 +14,7 @@ This is a masterschool project, I will include a summary of the project,a power 
 
 - [Open in google colab](https://colab.research.google.com/drive/1PW9m7X_QXwTpYGb_s2qgxeKqSiqcQcZ-)
 
-#TravelTide Executive Summary
+# TravelTide Executive Summary
 Objective: TravelTide, founded in April 2021, aims to enhance customer retention through a personalized rewards program by leveraging data aggregation and search technology to tailor perks to customer preferences.
 
 
@@ -24,7 +24,7 @@ Project Objectives:
 	•	Enhance retention with personalized rewards.
 
  
- #Methodology:
+ # Methodology:
 	1.	Data Cleaning: Ensured data accuracy and handled outliers.
 	2.	EDA: Analyzed demographics, travel behaviors, and booking preferences.
 	3.	Feature Engineering: Created metrics like age, travel frequency, and spending categories.
@@ -32,7 +32,7 @@ Project Objectives:
 	5.	Perk Assignment: Mapped rewards using fuzzy segmentation.
 
  
- #Customer Segments and Suggested Perks:
+ # Customer Segments and Suggested Perks:
 	1.	Family Travelers: Free hotel meals, checked bags, 1-night hotel with flight.
 	2.	Frequent Travelers: Free checked bags, exclusive discounts, no cancellation fees.
 	3.	Budget Travelers: Discounts, free hotel meals, 1-night hotel with flight.
@@ -40,11 +40,11 @@ Project Objectives:
 	5.	Flexible Travelers: No cancellation fees, exclusive discounts, checked bags.
 
  
- #Conclusion:
+ # Conclusion:
 The analysis provides insights for a personalized rewards program, aimed at increasing loyalty, engagement, and revenue by aligning perks with customer needs.
 
 
-#Next Steps:
+# Next Steps:
 	1.	Launch: Roll out the rewards program to targeted segments.
 	2.	A/B Testing: Test effectiveness of perks and delivery methods.
 	3.	Monitor: Track engagement and satisfaction metrics.
