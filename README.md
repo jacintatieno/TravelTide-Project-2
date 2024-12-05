@@ -5,9 +5,9 @@ It is a customer separation using k-means of an e flight/Hotel booking platform
 This is a masterschool project, I will include a summary of the project,a power point presentation and a colab notebook.
 
 ##Files attached: 
--TravelTide Project.ppt
--TravelTide Project.ipynb
--Executive summary
+- TravelTide Project.ppt
+- TravelTide Project.ipynb
+- Executive summary
 
 ## Links to resources
 - [Video Presentation](https://drive.google.com/drive/recent)
