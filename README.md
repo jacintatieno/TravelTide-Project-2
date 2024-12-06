@@ -1,4 +1,4 @@
-# TravelTide-Project-2
+# TravelTide-Project
 By Dr. Jacinter A. Otieno (Junior Analyst)
 Nov 2024
 It is a customer separation using k-means of an e flight/Hotel booking platform
